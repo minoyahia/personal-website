@@ -62,13 +62,13 @@ typingChange();
 setInterval(typingChange, 7000);
 
 document.getElementById("email").onclick = () =>
-  window.open("mailto:hello@mail.sx9.is-a.dev");
+  window.open("mailto:notminoyahiahf@gmail.com);
 document.getElementById("discord").onclick = () =>
   window.open("https://discord.st/sx-aircraft");
 document.getElementById("github").onclick = () =>
-  window.open("https://github.com/SX-9");
+  window.open("https://github.com/minoyahia");
 document.getElementById("twitter").onclick = () =>
-  window.open("https://twitter.com/SX_Disord");
+  window.open("https://twitter.com/living_or_idk");
 document.getElementById("share").onclick = () =>
   window.open("https://twitter.com/share?url=" + window.location.href);
 document.getElementById("pwa").onclick = install.prompt;
