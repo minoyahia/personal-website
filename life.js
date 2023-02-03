@@ -51,11 +51,11 @@ document.querySelectorAll(".glitch").forEach(glitch);
 
 const typingChange = () => {
   const typing = document.getElementById("typing");
-  setTimeout(() => (typing.innerText = "Developer"), 500);
+  setTimeout(() => (typing.innerText = "hooman"), 500);
   setTimeout(() => (typing.innerText = "Tech Lover"), 1500);
-  setTimeout(() => (typing.innerText = "Cat Lover"), 2500);
-  setTimeout(() => (typing.innerText = "Arch User"), 3500);
-  setTimeout(() => (typing.innerText = "Secret Agent"), 4500);
+  setTimeout(() => (typing.innerText = "bread"), 2500);
+  setTimeout(() => (typing.innerText = "cheese bag"), 3500);
+  setTimeout(() => (typing.innerText = "men lover (nohomo)"), 4500);
 };
 
 typingChange();
